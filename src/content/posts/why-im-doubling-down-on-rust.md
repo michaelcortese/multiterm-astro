@@ -12,8 +12,8 @@ Nowadays it feels like everyone is trying to sell you on something.
 
 ---
 
-"You have GOT to try this new reasoning model"
-"NextJS just got a CRAZY update"
+"You have GOT to try this new reasoning model"\
+"NextJS just got a CRAZY update" (Yawn)
 
 ---
 
@@ -32,7 +32,7 @@ fn main() -> ! {
 To become the best developer I can be, I'm choosing Rust. This is for a few key reasons:
 
 1. Hope for the future
-- If you're reading my blog, I assume we're in agreement that the AI hype is a little much. If we aren't in agreement, you are welcome to send me and angry email to which I will likely respond to. Regardless, it is an undeniable fact that Rust is growing at an alarming rate, with more companies adopting it every year. In no way will it 100% replace it's predecessors like C or C++, but I am confident that it very easily could.
+- If you're reading my blog, I assume we're in agreement that the AI hype is a little much. If we aren't in agreement, you are welcome to send me an angry email to which I will likely respond to. Regardless, it is an undeniable fact that Rust is growing at an alarming rate, with more companies adopting it every year. In no way will it 100% replace it's predecessors like C or C++, but I am confident that it very easily could.
 2. A passionate community
 - As someone who has spent a LARGE chunk of their life *chronically* online, I can say firsthand that the community of Rust is unlike any other. There are literally thousands of developers in discord servers and subreddits that spend their time trying to inspire and support new Rustaceans. Sounds great, right? I haven't even mentioned the surplus of educational materials. Between the [Rust Book](https://doc.rust-lang.org/book/title-page.html), the [Rustonomicon](https://doc.rust-lang.org/nomicon/), and the countless others that exist for OS-dev, embedded, and foreign-function-interfaces, it has never been easier to begin your low-level development journey.
 3. Open source!
