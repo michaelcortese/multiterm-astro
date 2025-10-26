@@ -1,7 +1,7 @@
 ---
 title: "Why I'm doubling down on Rust (as a CS student)"
 published: 2025-10-27
-description: "An analytical (amateur) perspective on the future of low-level programming in the age of AI"
+description: "An analytical (cough* amateur) perspective on the future of low-level programming in the age of AI"
 draft: false
 tags: ['Rust', 'Zed', 'AI']
 ---
