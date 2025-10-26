@@ -2,7 +2,7 @@
 title: "Why I'm doubling down on Rust"
 published: 2025-10-27
 description: "An analytical perspective on the future of low-level programming in the age of AI"
-draft: true
+draft: false
 tags: ['Rust', 'Zed', 'AI']
 ---
 
