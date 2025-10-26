@@ -152,7 +152,7 @@ const config: SiteConfig = {
   socialLinks: {
     github: 'https://github.com/michaelcortese',
     // mastodon: '',
-    email: 'mailto:mcortese1406@gmail.com',
+    email: 'mcortese1406@gmail.com',
     linkedin: 'https://www.linkedin.com/in/mcortese06',
     // bluesky: '',
     // twitter: '',
