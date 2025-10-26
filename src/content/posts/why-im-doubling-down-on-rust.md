@@ -21,7 +21,7 @@ Frankly, I'm tired of it. All of this bloat makes me want to drown everything ou
 
 becoming the best developer I can be.
 
-So now I'm going to sell you on something!
+Now I'm going to sell you on something!
 
 ```rust
 fn main() -> ! {
@@ -32,7 +32,7 @@ fn main() -> ! {
 To become the best developer I can be, I'm choosing Rust. This is for a few key reasons:
 
 1. Hope for the future
-- If you're reading my blog, I assume we're in agreement that the AI hype is a little much. If we aren't in agreement, you are welcome to send me an angry email to which I will likely respond to. Regardless, it is an undeniable fact that Rust is growing at an alarming rate, with more companies adopting it every year. In no way will it 100% replace it's predecessors like C or C++, but I am confident that it very easily could.
+- If you're reading my blog, I assume we're in agreement that the AI hype is a little much. If we aren't in agreement, you are welcome to send me an angry email to which I will likely respond to. I believe the AI bubble is deflating, whilst the Rust (concrete) bubble can't deflate because it is made of concrete. Regardless, it is an undeniable fact that Rust is growing at an alarming rate, with more companies adopting it every year. In no way will it 100% replace it's predecessors like C or C++, but I am confident that it very easily could.
 2. A passionate community
 - As someone who has spent a LARGE chunk of their life *chronically* online, I can say firsthand that the community of Rust is unlike any other. There are literally thousands of developers in discord servers and subreddits that spend their time trying to inspire and support new Rustaceans. Sounds great, right? I haven't even mentioned the surplus of educational materials. Between the [Rust Book](https://doc.rust-lang.org/book/title-page.html), the [Rustonomicon](https://doc.rust-lang.org/nomicon/), and the countless others that exist for OS-dev, embedded, and foreign-function-interfaces, it has never been easier to begin your low-level development journey.
 3. Open source!
@@ -44,7 +44,7 @@ To become the best developer I can be, I'm choosing Rust. This is for a few key 
 
 So why, as a student, choosing to master a language before theory?
 
-I believe that the language will help me understand the theory. Don't be misconstrued, however, I am NOT skipping the theory. By using the plethora of tooling written in Rust, I not only am able to comprehend the theory, but also the memory-based decisions behind it. When my peers are confronting a problem, I'm confronting the same problem, but then I can use my prior knowledge to *build on* that problem, and understand how the solutions can be morphed with the power of concurrency, and how the solutions can be implemented safer with the borrow checker.
+I believe that the language will help me understand the theory. Don't be misconstrued, however, I am NOT skipping the theory. By using the plethora of tooling written in Rust, I not only am able to comprehend the theory, but also the memory-based decisions behind it. When my peers are confronting a problem, I'm confronting the same problem, but then I can use my prior knowledge to *build on* that problem, and understand how the solutions can be morphed with the power of concurrency, and how the solutions can be implemented safer with the borrow checker philosophy.
 
 ---
 
