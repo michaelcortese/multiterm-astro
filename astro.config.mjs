@@ -61,7 +61,7 @@ export default defineConfig({
     responsiveStyles: true,
   },
   vite: {
-    plugins: [tailwindcss()],
+    plugins: [/* no additional Vite plugins */tailwindcss()],
   },
   integrations: [
     sitemap(),
