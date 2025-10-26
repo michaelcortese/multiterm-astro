@@ -24,7 +24,7 @@ becoming the best developer I can be.
 Now I'm going to sell you on something!
 
 ```rust
-fn main() -> ! {
+fn main() {
     println!("Hello, Rust!");
 }
 ```
